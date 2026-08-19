@@ -8,8 +8,6 @@ data/
 uploads/
 server/internal/frontend/dist/*
 !server/internal/frontend/dist/.gitkeep
-.env
-.env.local
 *.log
 *.test
 .DS_Store
@@ -22,3 +20,5 @@ web/test-results/
 monica-php
 
 .claude/
+config.bat
+node_modules
